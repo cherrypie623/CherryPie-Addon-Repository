@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="true"?>
+
+-<addon provider-name="CherryPie" version="1.0.0" name="CherryPie" id="repository.cherrypie">
+
+
+-<extension name="Cherry Pie Repository" point="xbmc.addon.repository">
+
+<info compressed="false">http://shadowcrew.info/shadows/addons.xml</info>
+
+<checksum>http://shadowcrew.info/shadows/addons.xml.md5</checksum>
+
+<datadir zip="true">http://shadowcrew.info/shadows/zips</datadir>
+
+</extension>
+
+
+-<extension point="xbmc.addon.metadata">
+
+<summary lang="en"> Join us at http://robinhoodgroup-tv.info/community/index.php</summary>
+
+<description lang="en">Special Thank you to Hakamac, Metal Kettle and Xunity</description>
+
+<platform>all</platform>
+
+</extension>
+
+</addon>
